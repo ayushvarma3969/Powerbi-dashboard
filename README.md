@@ -40,7 +40,7 @@ It provides insights into revenue trends, shipment distribution, top-performing 
 
 ## 📂 Files Included
 - Dashboard Sample.pbix  
-- PowerBI Dashboard.png  
+- Dashboard.png  
 
 ---
 
