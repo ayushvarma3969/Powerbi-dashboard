@@ -14,34 +14,35 @@ It provides insights into revenue trends, shipment distribution, top-performing 
 - Top 6 products by revenue (Treemap)
 - Contribution % calculation using DAX
 - Top 6 salesperson performance analysis
-- Conditional formatting for profit insights
-- Interactive date slicer
+- Profit comparison across products
 
 ---
 
-## 🛠 Tools & Technologies
-- Power BI
+## 🛠️ Tools & Technologies
+- Power BI  
 - DAX (Data Analysis Expressions)
 
 ---
 
-## 📸 Dashboard Preview
-(PowerBI Dashboard.png)
-
----
-
 ## 💡 Insights
-- Top 6 products contribute a significant share of total revenue
-- Most shipments are concentrated between 200–400 boxes
-- Profit margins vary across products, indicating performance differences
+- Top 6 products contribute a significant portion of total revenue  
+- Majority of shipments fall in the range of 200–400 boxes  
+- Profit margins vary significantly across products  
+- Some products generate high revenue but lower profit  
 
 ---
 
-## 📁 Files Included
-- `sales-shipment-dashboard.pbix` → Power BI project file  
-- `dashboard.png` → Dashboard preview image  
+## 📸 Dashboard Preview
+
+![Dashboard](PowerBI Dashboard.png)
 
 ---
 
-## 📌 Author
+## 📂 Files Included
+- Dashboard Sample.pbix  
+- PowerBI Dashboard.png  
+
+---
+
+## 👤 Author
 Ayush Varma
