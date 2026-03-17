@@ -34,7 +34,7 @@ It provides insights into revenue trends, shipment distribution, top-performing 
 
 ## 📸 Dashboard Preview
 
-![Dashboard](PowerBI Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
